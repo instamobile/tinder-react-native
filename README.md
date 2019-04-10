@@ -6,3 +6,5 @@ Download this React Native starter kit to create your own Tinder Clone in React 
 	<a href="https://www.instamobile.io">
 		<img src="https://www.instamobile.io/wp-content/uploads/2019/04/react-native-swipe-cards.png" alt="Tinder Swipe Cards"></a>
 </center>
+
+Coded with love and maintained by <a href="https://www.instamobile.io">React Native Templates</a>.
