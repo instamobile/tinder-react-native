@@ -59,7 +59,7 @@ export default class App extends React.Component {
     })
 
   }
-  componentWillMount() {
+  UNSAFE_componentWillMount() {
     this.PanResponder = PanResponder.create({
 
       onStartShouldSetPanResponder: (evt, gestureState) => true,
